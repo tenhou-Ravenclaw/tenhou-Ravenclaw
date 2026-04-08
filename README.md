@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ayato+Fujita+(藤田+彩翔)+%F0%9F%A6%89;Full-Stack+Engineer+%7C+Hardware+%7C+PM;Based+in+Osaka%2C+Japan" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Ayato+Fujita+%F0%9F%A6%89;Full-Stack+Engineer+%7C+Hardware+%7C+PM;Based+in+Osaka%2C+Japan" alt="Typing SVG" />
+
+### 藤田 彩翔
 
 <br/>
 
