@@ -63,7 +63,7 @@
 | | |
 | :---: | :---: |
 | ![](https://github-readme-stats.vercel.app/api?username=tenhou-Ravenclaw&show_icons=true&count_private=true&theme=dark&hide_border=true) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tenhou-Ravenclaw&theme=dark) |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tenhou-Ravenclaw&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8) | ![](https://github-readme-streak-stats.herokuapp.com/?user=tenhou-Ravenclaw&theme=dark&hide_border=true) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tenhou-Ravenclaw&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8) | ![](https://streak-stats.demolab.com/?user=tenhou-Ravenclaw&theme=dark&hide_border=true) |
 
 <p align="left">
   <picture>
